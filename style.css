@@ -69,10 +69,6 @@ article {
     overflow: hidden;
     border-radius: 10px;
 
-    .image-equilibrium {
-        z-index: 1;
-    }
-
     .icon-view {
         position: absolute;
         top: 50%;
@@ -163,10 +159,7 @@ hr {
         border-radius: 50%;
         width: 2rem;
     }
-}
 
-
-.creator {
     p {
         color: var(--color-blue);
     }
